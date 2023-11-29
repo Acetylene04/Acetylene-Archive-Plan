@@ -1,0 +1,1 @@
+Please check /Main/Log Schedule document.
